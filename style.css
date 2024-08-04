@@ -60,6 +60,7 @@ button{
     align-items: flex-start;
     flex-direction: column;
     flex-wrap: wrap;
+    gap: 24px;
 
 }
 .img-holder{
