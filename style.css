@@ -151,5 +151,14 @@ text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 52px;
 }
-
+.cont{
+    background-color: #3882f6;
+    color: #F9FAF8;
+    padding: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 18px;
+    width: 1000px;
+}
