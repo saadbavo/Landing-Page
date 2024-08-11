@@ -161,4 +161,12 @@ text-align: center;
     flex-wrap: wrap;
     gap: 18px;
     width: 1000px;
+    justify-content: space-between;
+}
+.textl{
+    font-weight: 600;
+}
+.io{
+    border-color: #F9FAF8;
+    box-shadow: none;
 }
