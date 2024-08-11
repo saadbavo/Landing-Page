@@ -111,6 +111,8 @@ text-align: center;
 /*quot secton*/
 .quote-sec{
     background-color: #E5E7EB;
+    padding: 62px;
+    margin-top:  32px;
 
 }
 .quot{
@@ -118,9 +120,20 @@ text-align: center;
     font-weight: lighter;
     color: #1F2937;
     font-family: light italic;
+    align-self: flex-start;
 }
 .insp{
     color: #1F2937;
     font-weight: bold;
+    align-self: flex-end;
 
+
+}
+.containr{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 32px;
+    gap: 18px;
 }
