@@ -114,5 +114,13 @@ text-align: center;
 
 }
 .quot{
-    
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1F2937;
+    font-family: light italic;
+}
+.insp{
+    color: #1F2937;
+    font-weight: bold;
+
 }
